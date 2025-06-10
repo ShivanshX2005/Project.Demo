@@ -1,4 +1,4 @@
 # Project.Demo
-Authoe Shivansh Tiwari 😎
+Author Shivansh Tiwari 😎
 <br>
 This is a Demo Project
